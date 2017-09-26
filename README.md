@@ -1,3 +1,3 @@
-# TDD
-USE JUNIT
-PRACTICS ADVANCE OOP I LIKE IT ,VERY FUNNY 
+
+
+#  Click: [Fizz Buzz Test](http://wiki.c2.com/?FizzBuzzTest)
